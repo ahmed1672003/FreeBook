@@ -1,3 +1,0 @@
-﻿namespace FreeBook.Persistance.Concretes;
-
-
