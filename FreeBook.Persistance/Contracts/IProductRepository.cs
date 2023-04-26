@@ -1,0 +1,2 @@
+﻿namespace FreeBook.Persistance.Contracts;
+

@@ -1,0 +1,18 @@
+﻿global using FreeBook.Domain.Entities.ApplicationUserEntity;
+global using FreeBook.Domain.Entities.BookEntity;
+global using FreeBook.Domain.Entities.CategoryEntity;
+global using FreeBook.Domain.Entities.LogBookEntity;
+global using FreeBook.Domain.Entities.LogCategoryEntity;
+global using FreeBook.Domain.Entities.LogSubCategoryEntity;
+global using FreeBook.Domain.Entities.SubCategoryEntity;
+global using FreeBook.Persistance.Concretes;
+global using FreeBook.Persistance.Constants;
+global using FreeBook.Persistance.Contexts;
+global using FreeBook.Persistance.Contracts;
+global using Microsoft.AspNetCore.Identity;
+global using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.Extensions.Configuration;
+global using Microsoft.Extensions.DependencyInjection;
+global using System.Linq.Expressions;
+namespace FreeBook.Domain;
